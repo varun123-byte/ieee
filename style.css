@@ -654,6 +654,10 @@ animation-delay: 5s;
 @media screen and (min-width:769px) and (max-width:994px){
 }
 
+.p h1{
+    text-align:center;
+}
+
 /*articles page*/
 .articlemain{
     width: 100%;
