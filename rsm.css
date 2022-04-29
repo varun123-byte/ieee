@@ -198,6 +198,11 @@ body{
     padding: 40px;
 
 }
+
+.box li {
+    color: #868c98;
+}
+
 .bg{
     position: relative;
     z-index: -1;
